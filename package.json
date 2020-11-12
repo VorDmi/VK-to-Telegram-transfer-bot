@@ -1,0 +1,16 @@
+{	
+  "name": "vk-to-telegram-transfer-bot",	
+  "version": "1.0.0",	
+  "description": "",	
+  "main": "index.js",	
+  "dependencies": {	
+    "node-telegram-bot-api": "^0.50.0",	
+    "vk-io": "^4.0.0-rc.30"	
+  },	
+  "devDependencies": {},	
+  "scripts": {	
+    "start": "node index.js"	
+  },	
+  "author": "VorDmi",	
+  "license": "ISC"	
+}
